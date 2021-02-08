@@ -1,0 +1,31 @@
+{
+  "entityId":1560136,
+  "comparisonIds":
+  [
+    {
+      "property_id":3363528,
+      "name":"Time Out Hong Kong (Hong Kong)",
+      "facebook_page_id":"87396842402",
+      "image_url":"graph.facebook.com/87396842402/picture?type=small"
+    },
+    {
+      "property_id":3131400,
+      "name":"Time Out Chicago",
+      "facebook_page_id":"34127084244",
+      "image_url":"graph.facebook.com/34127084244/picture?type=small"
+    },
+    {
+      "property_id":3750856,
+      "name":"Time Out London (UK)",
+      "facebook_page_id":"297605497404",
+      "image_url":"graph.facebook.com/297605497404/picture?type=small"
+    },
+    {
+      "property_id":3132360,
+      "name":"Time Out Los Angeles",
+      "facebook_page_id":
+      "308385419176623",
+      "image_url":"graph.facebook.com/308385419176623/picture?type=small"
+    }
+  ]
+}
